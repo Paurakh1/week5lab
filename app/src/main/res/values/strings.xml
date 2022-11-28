@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginUiLab6</string>
+    <string name="let_s_make_travel_fun">Let\'s Make Travel Fun</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="keep_me_sign_in">Keep me Sign In</string>
+    <string name="sign_in">Sign in</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="forget_password">Forget Password</string>
+</resources>
